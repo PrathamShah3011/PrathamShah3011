@@ -6,7 +6,8 @@
 - 🔭 I’m currently working on Frappe/ErpNext
 - 🌱 I’m currently learning Python, Javascript
 - 📫 How to reach me:
--   - Mail: pratham3011@gmail.com
+  - Mail: pratham3011@gmail.com
+  - LinkedIn: (Profile)[https://www.linkedin.com/in/pratham-shah-01a321156/]
 
 <!--
 **PrathamShah3011/PrathamShah3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
