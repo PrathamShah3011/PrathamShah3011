@@ -9,6 +9,10 @@
   - Mail: pratham3011@gmail.com
   - LinkedIn: [Profile](https://www.linkedin.com/in/pratham-shah-01a321156/)
 
+[![GIF](https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true)](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
+
+
+
 <!--
 **PrathamShah3011/PrathamShah3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
